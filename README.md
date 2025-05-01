@@ -37,7 +37,7 @@ My name is Filipe Pitombo, I m 19 years old and I am from Solterapoli. I finishe
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -155,7 +155,7 @@ My name is Filipe Pitombo, I m 19 years old and I am from Solterapoli. I finishe
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
