@@ -4,39 +4,6 @@
 
 My name is Filipe Pitombo, I m 19 years old and I am from Solterapoli. I finished high school at Colegio Plural. I am currently studying Systems Analysis and Development at Faculdade Unijorge. I am passionate about technology and I share my knowledge through my YouTube channel. "[CodeDragon]((https://www.youtube.com/@CodeDragon-t1n))", where I teach how to create projects and the like, I leave my personal life on one side and my professional life on the other side, I don't like to mix one thing with the other.
 
-<p align="left">
-    <a href="(https://www.youtube.com/@CodeDragon-t1n)">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@CodeDragon-t1n">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/FPC-CODE20">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="[https://github.com/FPC-CODE20?tab=followers]">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Languages ​​and Technologies
 
 <img 
