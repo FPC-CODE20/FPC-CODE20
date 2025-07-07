@@ -2,7 +2,6 @@
 
 **`FullStack Developer`**
 
-My name is Filipe Pitombo, I m 19 years old and I am from Solterapoli. I finished high school at Colegio Plural. I am currently studying Systems Analysis and Development at Faculdade Unijorge. I am passionate about technology and I share my knowledge through my YouTube channel. "[CodeDragon]((https://www.youtube.com/@CodeDragon-t1n))", where I teach how to create projects and the like, I leave my personal life on one side and my professional life on the other side, I don't like to mix one thing with the other.
 
 ### 🤖 Languages ​​and Technologies
 
